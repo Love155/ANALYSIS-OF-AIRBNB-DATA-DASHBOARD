@@ -58,6 +58,5 @@ Power BI
 
 # Files to be uploaded in the repository:
 
-  1. Dataset folder --> Listings.csv, Listings_data_dictionary.csv, Reviews.csv,      Reviews_data_dictionary.csv, AirBnB.pdf
-  2. Code folder --> Project.pbix, airbnb-Pitch-Deck.pptx
+Project.pbix
 
